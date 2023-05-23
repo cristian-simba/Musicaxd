@@ -60,6 +60,7 @@ public class menuPrincipal {
         electronioca.setAnio(nuevoAnio);
         System.out.println("El nuevo año del objeto electronica es de: "+electronioca.getAnio());*/
 
+        // Hola a todos
         rock.imprimirDatos();
         electronioca.imprimirDatos();
         regueton.imprimirDatos();
