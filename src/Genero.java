@@ -3,7 +3,7 @@ public class Genero{
     int anio;
 
     //Los Constuctores inicializa los valores de una clase
-    // Hola a todos
+    // Hola a todooooos
     public Genero(String tipo, String ritmo, String pais, String artista, String festival, int anio) {
         this.tipo = tipo;
         this.ritmo = ritmo;
